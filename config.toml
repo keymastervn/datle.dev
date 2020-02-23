@@ -1,0 +1,7 @@
+baseURL = "https://datle.dev/"
+languageCode = "en-us"
+title = "Dat Le."
+
+[[params.mainMenu]]
+    link = "/"
+    text = "comming soon."
