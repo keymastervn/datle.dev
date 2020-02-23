@@ -1,7 +1,16 @@
 baseURL = "https://datle.dev/"
 languageCode = "en-us"
 title = "Dat Le."
+theme = "sam"
+
+[[params.mainMenu]]
+    text = "Hello."
+
+[[params.mainMenu]]
+
+[[params.mainMenu]]
+    text = "Dat Le is supposed to be here,"
 
 [[params.mainMenu]]
     link = "/"
-    text = "comming soon."
+    text = "but not yet available."
